@@ -3,5 +3,6 @@ package testmod
 import "fmt"
 
 func  Hi(name string) string {
-	return fmt.Sprintf("Hi,%s",name)
+	fmt.Sprint("Hi,%s\n",name)
+	return fmt.Sprintf("Hi,%s!\n",name)
 }
