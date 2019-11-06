@@ -1,3 +1,3 @@
-module github.com/commtechguy/testmod
+module github.com/commtechguy/testmod/v2
 
 go 1.12
